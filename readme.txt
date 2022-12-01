@@ -1,4 +1,4 @@
-This is a web application written in Coldfusion to encrypt and decrypt text utilizing Trithemius cipher. You can see the app in action on my website at http://www.WorldOfXophe.com/portfolio/trit.cfm. If you're not familiar with Adobe Coldfusion, it's a scripting language similar to PHP or ASP, used to create dynamic web pages, and requires the Coldfusion server.
+This is a web application written in Coldfusion to encrypt and decrypt text utilizing Trithemius cipher. If you're not familiar with Adobe Coldfusion, it's a scripting language similar to PHP or ASP, used to create dynamic web pages, and requires the Coldfusion server.
 
 trit.cfm is the page to view in a web browser. A .cfm page is just a normal html page with Coldfusion code embedded -- the ".cfm" extension tells the Coldfusion application server to process all of the page's code and render it as html to the browser.
 
